@@ -18,7 +18,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/feMoraes0/food-bit-app.git
+$ git clone https://github.com/the-code-chef/FoodOrder.git
 
 # Go into the repository
 $ cd food-bit-app
@@ -29,10 +29,3 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
-
-## Credits
-  - <a target="_blank" href="https://www.behance.net/gallery/82583397/Food-Bit-App-UI-UX-design-case-study?tracking_source=curated_galleries_list">Design</a>
-
-## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
